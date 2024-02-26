@@ -7,7 +7,10 @@ A collection of Java projects covering various topics and concepts. Each project
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+<<<<<<< HEAD
 - [License](#license)
+=======
+>>>>>>> 7d14375b243a0cca8b97883484dd9aa5e5c8a5d2
 
 ## Projects
 
