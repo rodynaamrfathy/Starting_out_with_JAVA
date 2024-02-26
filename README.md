@@ -10,8 +10,8 @@ A collection of Java projects covering various topics and concepts. Each project
 
 ## Projects
 
-1. [Mortgage Calculator](MortgageCalculator/README.md) - A simple program to calculate mortgage payments.
-2. [Fizz Buzz](FizzBuzz/README.md) - A simple program to calculate mortgage payments.
+1. [Mortgage Calculator]([MortgageCalculator/README.md](https://github.com/rodynaamrfathy/Starting_out_with_JAVA/blob/main/MortgageCalculator.java)) - A simple program to calculate mortgage payments.
+2. [Fizz Buzz]([FizzBuzz/README.md](https://github.com/rodynaamrfathy/Starting_out_with_JAVA/blob/main/FizzBuzz.java)) - A simple program to calculate mortgage payments.
 
 <!-- Add new projects here with links to their READMEs -->
 
