@@ -15,7 +15,7 @@ public class MortgageCalculator {
         System.out.print("Period (Years): ");
         int years = periodScanner.nextByte();
 
-        double mortgageAmount = (annualInterestRate * Math.pow(1 + annualInterestRate, years))
+        double mortgageAmount = principalAmount * (annualInterestRate * Math.pow(1 + annualInterestRate, years))
                                 / (Math.pow(1 + annualInterestRate, years) - 1);
 
         NumberFormat currency = NumberFormat.getCurrencyInstance();
